@@ -1,0 +1,2 @@
+defmodule Pang do
+end
